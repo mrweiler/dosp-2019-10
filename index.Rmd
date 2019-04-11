@@ -1,0 +1,148 @@
+---
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
+author: <small>Matthias Weiler</small>
+date: <small>15.04.2019</small>
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+    self_contained: FALSE
+    incremental: TRUE
+    reveal_plugins: ["chalkboard"]
+    css: styles.css
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
+---
+
+
+# <small> What did we do last session?</small>
+
+----
+
+We did a small review of  
+what we have done so far
+
+----
+
+... learned how to use inline code
+
+----
+
+... and included references  
+to our R Notebooks
+
+----
+
+Any questions or anything to add?
+
+
+
+# <small>Last session's homework</small>
+
+----
+
+Who of you finished your slides?
+
+----
+
+... finished your R Notebooks?
+
+----
+
+... posted a link to your slides on the  
+\#final_presentation channel in Slack?
+
+----
+
+... posted your preregistrations  on the  
+\#final_presentation channel in Slack?
+
+----
+
+Any questions regarding  
+last session's homework?
+
+
+
+# <small>Today:<br>Final presentations</small>
+
+
+
+# <small>Basic rules for your presentation</small>
+
+You have 5 minutes  
+for your presentation
+
+----
+
+You have 5 additional  
+minutes to answer questions
+
+----
+
+There should be feedback  
+from every group
+
+----
+
+Any questions?
+
+
+
+# <small>Running order</small>
+
+01: Team Anna
+02: Team Thomas
+03: Team Konstantinos
+04: Team Maria-Eirini
+
+
+
+# <small>Let's go</small>
+
+----
+
+01: [Team Anna](https://annamakavou.github.io/ann)  
+(next: Team Thomas)  
+
+----
+
+02: [Team Thomas](https://thomastsih.github.io/ThomasDAAD)  
+(next: Team Konstantinos)  
+
+----
+
+03: [Team Konstantinos](https://metallinoskonstantinos.github.io/MetallinosKon/)  
+(next: Team Maria-Eirini)  
+
+----
+
+04: [Team Maria-Eirini](https://mariaeirininaka.github.io/MariaEirini/)  
+
+----
+
+Great job everyone!
+
+
+
+# <small>Evaluation</small>
+
+----
+
+- What have you learned in this course?
+- What did you like ... ?
+- What didn't you like ... ?
+- What would you change ... ?
+
+
+
+# <small>Where to go from here</small>
+
+----
+
+# <small>Any questions?</small>
+
+
+
+# <small>Thank you for your attention</small>
