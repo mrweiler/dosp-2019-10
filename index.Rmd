@@ -71,6 +71,8 @@ last session's homework?
 
 # <small>Basic rules for your presentation</small>
 
+----
+
 You have 5 minutes  
 for your presentation
 
@@ -92,10 +94,10 @@ Any questions?
 
 # <small>Running order</small>
 
-01: Team Anna
-02: Team Thomas
-03: Team Konstantinos
-04: Team Maria-Eirini
+01: Team Anna  
+02: Team Thomas  
+03: Team Konstantinos  
+04: Team Maria-Eirini  
 
 
 
@@ -108,7 +110,7 @@ Any questions?
 
 ----
 
-02: [Team Thomas](https://thomastsih.github.io/ThomasDAAD)  
+02: [Team Thomas](https://thomastsih.github.io/ThomasDAAD//RmarkdownPresentationFinal.html)  
 (next: Team Konstantinos)  
 
 ----
@@ -118,7 +120,7 @@ Any questions?
 
 ----
 
-04: [Team Maria-Eirini](https://mariaeirininaka.github.io/MariaEirini/)  
+04: [Team Maria-Eirini](https://mariaeirininaka.github.io/MariaEirini/slides.html)  
 
 ----
 
@@ -130,16 +132,32 @@ Great job everyone!
 
 ----
 
-- What have you learned in this course?
-- What did you like ... ?
-- What didn't you like ... ?
-- What would you change ... ?
+Please go to  
+[http://tiny.cc/dun64y](http://tiny.cc/dun64y)  
+to evaluate this course
+
+----
+
+Anything else you  
+would like to say?
 
 
 
 # <small>Where to go from here</small>
 
 ----
+
+[Improve your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
+
+----
+
+[Learn R programming](https://www.coursera.org/learn/r-programming)
+
+----
+
+[Engage in reproducible research](https://www.coursera.org/learn/reproducible-research)
+
+
 
 # <small>Any questions?</small>
 
